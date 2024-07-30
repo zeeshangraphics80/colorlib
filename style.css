@@ -1,0 +1,353 @@
+/* @import url(@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&display=swap'); */
+
+body {
+padding: 0;
+margin: 0;
+/* background-color: rgb(145, 255, 0); */
+}
+
+.main{
+    height: 10vh;
+    width: 100vw;
+    /* background-color: rgb(255, 0, 149); */
+    /* overflow: scroll; */
+
+}
+
+.vice{
+    height: 40vh;
+    width: 100vw;
+    /* background-color: rgb(255, 136, 0); */
+
+}
+
+.hello{
+    height: 100vh;
+    width: 100vw;
+    /* background-color: rgb(255, 0, 221); */
+
+
+
+}
+
+
+.left{
+    width: 50%;
+    /* border: 2px solid blueviolet; */
+
+}
+
+.right{
+    width: 50%;
+    /* border: 2px solid blueviolet; */
+}
+
+.links{
+    width: 100%;
+    height: 60%;
+    /* border: 2px solid rgb(43, 226, 52); */
+
+
+
+
+
+
+}
+
+.div1
+{
+    /* border: 1px solid rgb(255, 0, 0);  */
+    width: 100%;
+    height: 50%;
+
+}
+
+.div3
+{
+    /* border: 1px solid black;  */
+    width: 35%;
+    height: 350px;
+
+}
+
+.div4
+{
+    /* border: 1px solid black;  */
+    width: 25%;
+    height: 350px;
+
+}
+
+.div5
+{
+    /* border: 1px solid black;  */
+    width: 40%;
+    height: 350px;
+
+}
+
+
+
+
+
+
+
+/*
+.navr
+{
+    width: 50%;
+    list-style-type: style none;
+}
+
+.navl
+{
+    
+
+    width: 50%;
+    list-style-type: style none;
+}
+
+
+ul
+{
+display: flex;
+position: sticky;
+overflow: hidden;
+
+
+}
+
+li
+{
+list-style: none;
+padding: 25px;
+margin: auto;
+}
+
+
+.div2
+{
+    display: flex;
+    flex-direction: column;
+    /* border: 1px solid black; 
+    width: 30%;
+    height: 400px;
+    margin-top: 10px;
+    align-items: center;
+    background-image: url("./Images/Buy_or_iPad.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+
+.div4
+{
+    display: flex;
+    background-color: black;
+    /* border: 1px solid rgb(0, 0, 0); 
+    width: 100%;
+    height: 80px;
+    /* justify-content: center; 
+    color: rgb(255, 255, 255);
+    align-items: center;
+    flex-direction: column;
+    line-height: 1px;
+
+}
+
+.div5
+{
+    display: flex;
+    flex-direction: column;
+    /* border: 1px solid black; 
+    width: 100%;
+    height: 340p
+    /* margin-top: 10px; 
+    align-items: center;
+    background-image: url("./Images/hero_ipadpro__bpt7a9d8sh42_largetall.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.div6
+{
+    display: flex;
+    border: 1px solid rgb(0, 0, 0);
+    background-color: black;
+
+    width: 100%;
+    height: 80px;
+    /* margin-top: 10px; 
+    justify-content: center;
+    /* margin-top: auto;
+    margin-bottom: auto; 
+    align-items: center;
+
+}
+
+.div7
+{
+    display: flex;
+    flex-direction: column;
+    border: 1px cornsilk;
+    /* border: 1px solid black;
+    width: 100%;
+    height: 400px;
+    /* margin-top: 10px; 
+    align-items: center;
+    background-image: url("./Images/hero_ipadpro__bpt7a9d8sh42_largetall.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.btn1
+{
+    border-color: blue;
+    background-color: blue;
+    padding: 20px 32px;
+    /* text-align: center; 
+    font-size: 16px;
+    margin-top: auto;
+    margin-bottom: auto;
+    cursor: pointer;
+    border-radius: 50px;
+}
+
+.btn
+{
+    border-color: blue;
+    display: flex;
+    color: blue;
+    padding: 20px 32px;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 16px;
+    margin: 50px 10px; 
+    cursor: pointer;
+    border-radius: 50px;
+    width : 100px;
+    height: 60px;
+    justify-content: space-evenly;
+ position: absolute; 
+
+    
+    
+    
+}
+
+
+
+
+/* .div2
+{
+    display: flex;
+    border: 1px solid black;
+    width: 100%;
+    height: 500px;
+    margin-top: 50px;
+    align-items: center;
+    text-align: center;
+    /* display: inline-block; 
+
+    
+    justify-content: center;
+    margin-bottom: 200px; 
+    
+}
+
+
+/*
+.div3
+{
+    display: flex;
+    border: 1px solid black;
+    width: 100%;
+    height: 500px;
+    margin-top: 50px;
+    align-items: center;
+    text-align: center;
+    display: inline-block;
+    background-color: black;
+   
+    
+    
+}
+
+
+.container
+{
+display: flex;
+align-items: center;
+text-align: center;
+margin-top: 50px;
+
+
+}
+
+.div4
+{
+    border: 1px solid black;
+    width: 50%;
+    height: 500px;
+    background-image: url("./Images/promo.jpg");
+
+    
+    
+    
+}
+
+.div5
+{
+    border: 1px solid black;
+    width: 50%;
+    height: 500px;
+    background-image: url("./Images/promo_ai__couihqxznyvm_medium.jpg");
+
+   
+   
+    
+   
+}
+
+
+
+
+.btn:hover {
+    background-color: blue;
+    color: white;
+  }
+
+ 
+
+  .btn2
+{
+    border-color: blue;
+    color: blue;
+    padding: 20px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 250px 10px;
+    cursor: pointer;
+    border-radius: 50px;
+}
+
+.btn2:hover {
+    background-color: blue;
+    color: white;
+    outline-color: blue;
+}
+
+.para{
+    display: flex;
+    font-size: 30px;
+    border-width: 4px;
+    border-color: blue;
+ /* display: inline-block; 
+ position: relative;
+    margin-left: 50%;
+
+
+} */
